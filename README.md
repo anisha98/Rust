@@ -1,3 +1,1 @@
-# Rust
-# Rust
 # Learn Rust
